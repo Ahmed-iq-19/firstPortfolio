@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fem-single-page-developer-portfolio-main/fem-single-page-developer-portfolio-main/assets"
+		},
+		{
+			"path": "../fem-single-page-developer-portfolio-main/fem-single-page-developer-portfolio-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fem-single-page-developer-portfolio-main"
+	}
+}
